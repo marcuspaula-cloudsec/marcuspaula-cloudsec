@@ -1,8 +1,34 @@
 # Marcus Paula
 
-**Cloud Security Engineer | AWS | Terraform | Kubernetes | Zero Trust**
+**Cloud Security Architect | AWS | Terraform | Kubernetes | Zero Trust | DFIR**
 
-10+ years in IT infrastructure and security. Currently securing systems at scale for one of the world's largest platforms. Based in Dublin, Ireland.
+16+ years in IT — from helpdesk to enterprise infrastructure to cybersecurity architecture. Former EMEA IT Engineer at **TikTok/ByteDance** managing 5,000+ devices across 6 countries. Based in Dublin, Ireland.
+
+---
+
+## Career Progression
+
+| Years | Role | What I Did |
+|---|---|---|
+| **7 years** | Desktop Support & Helpdesk | End-user support, hardware lifecycle, ticketing (JIRA), asset audits, onboarding/offboarding SLA 100% |
+| **5 years** | Infrastructure Engineer | Active Directory, Windows Server, Linux, networking, JAMF, Puppet, Grafana monitoring, 99% asset visibility |
+| **3 years** | Security Engineer | Zero Trust (CISA 5 pillars), IAM at scale, DFIR (PICERL), GDPR/NIST/ISO 27001 compliance, endpoint protection (SEP), quarterly audits |
+| **1 year** | Cloud Security Architecture | AWS multi-account governance, Terraform IaC, GuardDuty, CloudTrail, Security Hub, container security, threat modeling |
+
+---
+
+## What I Actually Delivered (Measured Results)
+
+| Metric | Result | Context |
+|---|---|---|
+| Devices managed | **5,000+** | TikTok EMEA — 6 countries |
+| Operational cost reduction | **50%** | Through automation (PowerShell, Bash, Python) |
+| Provisioning time reduction | **80%** | AD automation + scripted onboarding |
+| Asset visibility | **99%** | JAMF + Puppet + IMDS + Grafana dashboards |
+| Video conferencing quality | **+90%** | MCU server optimisation |
+| IAM security incidents | **Zero** | RBAC + MFA + SSO + VPN — no breaches |
+| Active Directory outages | **Zero** | Proactive monitoring + change management (CCB) |
+| Onboarding/offboarding SLA | **100%** | From day one to last day |
 
 ---
 
@@ -14,8 +40,12 @@
 | **Infrastructure as Code** | Terraform modules for security at scale, OIDC-based pipelines |
 | **Threat Detection & Response** | CloudTrail, GuardDuty, Security Hub, SIEM integration |
 | **Container Security** | EKS hardening, Falco, Kyverno, runtime protection |
-| **DFIR** | Incident response, forensic analysis, threat hunting with Athena |
-| **Zero Trust** | Identity-first architecture, least privilege, no static credentials |
+| **DFIR** | Incident response (PICERL), forensic analysis, memory forensics, threat hunting |
+| **Zero Trust** | CISA Maturity Model (all 5 pillars), identity-first architecture, no static credentials |
+| **IAM at Scale** | Active Directory, RBAC, MFA, SSO, VPN — 5,000+ endpoints, zero incidents |
+| **Endpoint Management** | JAMF (macOS/iOS), Puppet (Linux), SEP (Windows), asset lifecycle |
+| **Compliance & Audits** | GDPR, NIST CSF, ISO 27001, CIS Controls v8, quarterly audit cycles |
+| **Automation** | PowerShell, Bash, Python — provisioning, audits, monitoring, reporting |
 
 ---
 
@@ -42,16 +72,31 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![JAMF](https://img.shields.io/badge/JAMF-6C2DC7?style=flat-square&logo=jamf&logoColor=white)
 
 ---
 
-## Certifications
+## Certifications (47+)
 
-| Certification | Status |
+| Category | Certifications |
 |---|---|
-| AWS Solutions Architect Associate (SAA-C03) | In progress |
-| CKS — Certified Kubernetes Security Specialist | Planned |
-| CISSP | Planned |
+| **Security & Architecture** | Zero Trust, ISC2 CC, MITRE ATT&CK, Network Security |
+| **AWS Cloud (14)** | Security Specialty, IAM, KMS, GuardDuty, Macie, Inspector, WAF |
+| **Digital Forensics** | DFIR, Malware Analysis, GDPR, Memory Forensics, Chain of Custody |
+| **Infrastructure** | ITIL v4, Active Directory, Microsoft 365, MDM |
+| **In Progress** | AWS SAA-C03, CKS, CISSP |
+
+---
+
+## Education
+
+| Programme | Institution |
+|---|---|
+| Postgraduate in **Cyber Security / DFIR** | National College of Ireland (NCI), Dublin *(in progress)* |
+| Enterprise Development Programme | TU Dublin (2017-2018) |
 
 ---
 
